@@ -34,5 +34,6 @@ Here are the problems addressed in the following project:
 2-Wheelers:  85,000.00
 4-Wheelers: 15,00,00.00   
 
-
+Here is the Tableau link to the dashboard regarding this project:
+https://public.tableau.com/views/AtliQ_Codebasics_project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
